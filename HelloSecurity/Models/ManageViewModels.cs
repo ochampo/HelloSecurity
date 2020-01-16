@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace HelloSecurity.Models
+namespace HelloSecurity.Models//test
 {
     public class IndexViewModel
     {
